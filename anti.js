@@ -28,4 +28,4 @@ client.on('ready', () => console.log(`Logged in as ${client.user.tag}.`));
 
 client.on('message', (message) => antiSpam.message(message)); 
 
-client.login('YOUR_SUPER_SECRET_TOKEN');
+client.login('Nzc5MDQ2MDUzODc3Nzc2NDI0.X7a1LQ.IMXw-Gz_nj7BXNnPDIS6Vl-dHv8');
